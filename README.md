@@ -2,6 +2,8 @@
 
 A modern iOS application built with SwiftUI.
 
+## loom video: https://www.loom.com/share/f7a0b91a9f2b4c3ba224220038972c2d
+
 ## ✨ Features
 
 - **Service Selection**: Choose from popular subscription services (Netflix, Hulu, Spotify, PlayStation+, Paramount+, YouTube Music)
